@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>frame</name>
+   <tag></tag>
+   <elementGuidId>1cb6db67-e703-4028-b52f-6e1749b76801</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//frameset/frameset/frame</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>frameset > frameset > frame</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>frame >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>frame</value>
+      <webElementGuid>56891b96-1d7c-4c8d-a6d2-ae9ab2add7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>frame_2.html</value>
+      <webElementGuid>fabfacac-2a86-47f5-a9e8-b0e74c5bd7cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/frameset[1]/frameset[1]/frame[1]</value>
+      <webElementGuid>74bfb42f-0e3a-455f-b395-7e5f839c317d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//frameset/frameset/frame</value>
+      <webElementGuid>770bb415-f85d-41f1-b3f3-d6ba7b404ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//frame[@src = 'frame_2.html']</value>
+      <webElementGuid>311a5136-0edc-4a3d-bb91-3bbeb23da471</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
